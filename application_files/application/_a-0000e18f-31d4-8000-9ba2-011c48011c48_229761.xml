@@ -1,5 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?><applicationHaul xmlns:a="http://www.appian.com/ae/types/2009">
-    <versionUuid>_a-0000e18f-31d4-8000-9ba2-011c48011c48_229777</versionUuid>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<applicationHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <versionUuid>3b9f44cc-6bdc-49ca-9490-b31ca993efc9</versionUuid>
     <application>
         <name>TST Automation Manager</name>
         <uuid>_a-0000e18f-31d4-8000-9ba2-011c48011c48_229761</uuid>
@@ -245,5 +246,6 @@
     </roleMap>
     <history>
         <historyInfo versionUuid="_a-0000e18f-31d4-8000-9ba2-011c48011c48_229777"/>
+        <historyInfo versionUuid="3b9f44cc-6bdc-49ca-9490-b31ca993efc9"/>
     </history>
-</applicationHaul>
+</applicationHaul><!--updated on 2018-11-11T23:42:34.892-->
